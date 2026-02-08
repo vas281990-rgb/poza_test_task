@@ -1,0 +1,9 @@
+# Email validation
+dnspython==2.6.1
+
+# Telegram
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+
+# Utils
+colorama==0.4.6
