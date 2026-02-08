@@ -1,3 +1,6 @@
 test@gmail.com
 info@google.com
-invalid@fake-domain.com
+invalid@nonexistentdomain12345.com
+support@notion.so
+hello@example.com
+admin@github.com
